@@ -14,3 +14,5 @@ Description of files:
 "AR1.HB.cpp" - cpp file which is called from main function to sample the HB effects.
 
 "kronecker.cpp" - cpp file which calculates the kronecker product which is needed when sampling rho.
+
+"W.RDATA" - Neighbourhood matrix, W, which has been altered to connect the islands to the mainland.
