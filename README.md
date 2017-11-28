@@ -15,4 +15,4 @@ Description of files:
 
 "kronecker.cpp" - cpp file which calculates the kronecker product which is needed when sampling rho.
 
-"W.RDATA" - Neighbourhood matrix, W, which has been altered to connect the islands to the mainland.
+"W.RData" - Neighbourhood matrix, W, which has been altered to connect the islands to the mainland.
